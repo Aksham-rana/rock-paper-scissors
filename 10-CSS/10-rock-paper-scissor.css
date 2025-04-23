@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.reset-button{
+    font-size: 15px;
+    padding:8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;   
+}
+
+.move-pic{
+    height: 50px;
+}
+
+.move-button{
+    background-color: transparent; 
+    height: 120px;
+    width: 120px;
+    border:solid 3px white;
+    border-radius: 60px;
+    margin-right: 10px;
+}
+
+.css-result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
